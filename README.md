@@ -5,4 +5,5 @@ The intended typical workflow:
 - Examine the ELF files using a tool such as Ghidra.
 
 Usage:
+
     python esp8266-bin2elf.py yourfile.bin
